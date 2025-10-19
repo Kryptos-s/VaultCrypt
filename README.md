@@ -54,7 +54,7 @@ Built with **C++17**, **Qt5**, and **trusted cryptographic libraries**.
 
 
 **Portable Build**
-[VaultCrypt-1.0.0-Portable.zip]([releases/latest](https://github.com/Kryptos-s/VaultCrypt/releases/tag/release))
+[VaultCrypt-1.0.0-Portable.zip](https://github.com/Kryptos-s/VaultCrypt/releases/tag/release)
 
 ### **Usage**
 
