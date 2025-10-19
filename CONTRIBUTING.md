@@ -173,7 +173,7 @@ SecureBytes encrypt(const SecureBytes& key, const SecureBytes& plaintext);
 ## Questions?
 
 Feel free to ask questions in:
-- [GitHub Discussions](https://github.com/yourusername/VaultCrypt/discussions)
-- [Issue tracker](https://github.com/yourusername/VaultCrypt/issues)
+- [GitHub Discussions](https://github.com/Kryptos-s/VaultCrypt/discussions)
+- [Issue tracker](https://github.com/Kryptos-s/VaultCrypt/issues)
 
 Thank you for contributing! 🎉
