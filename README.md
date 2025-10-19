@@ -52,8 +52,6 @@ Built with **C++17**, **Qt5**, and **trusted cryptographic libraries**.
 
 ### **Download**
 
-**Windows Installer**
-[VaultCrypt-1.0.0-Windows-x64.exe](releases/latest)
 
 **Portable Build**
 [VaultCrypt-1.0.0-Portable.zip](releases/latest)
@@ -113,15 +111,7 @@ cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=[vcpkg-root]/scripts/buildsystems/vcp
 cmake --build build --config Release
 ```
 
----
 
-## 📖 Documentation
-
-* [User Guide](docs/USER_GUIDE.md) — Application usage
-* [Building Guide](BUILDING.md) — Compilation instructions
-* [API Reference](docs/API.md) — Developer documentation
-* [Architecture](ARCHITECTURE.md) — System design
-* [Security Policy](SECURITY.md) — Implementation details
 
 ---
 
@@ -147,7 +137,7 @@ See [SECURITY.md](SECURITY.md) for full policy.
 Contributions are welcome. Please review:
 
 * [CONTRIBUTING.md](CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
 
 **Quick workflow:**
 
@@ -176,7 +166,7 @@ git push origin feature/new-feature
 
 ## 🐞 Known Issues
 
-See [GitHub Issues](https://github.com/yourusername/VaultCrypt/issues).
+See [GitHub Issues](https://github.com/Kryptos-s/VaultCrypt/issues).
 
 ---
 
@@ -198,15 +188,15 @@ See [LICENSE](LICENSE) for details.
 
 ## 📞 Contact
 
-**Issues:** [GitHub Issues](https://github.com/yourusername/VaultCrypt/issues)
-**Discussions:** [GitHub Discussions](https://github.com/yourusername/VaultCrypt/discussions)
-**Email:** [contact@vaultcrypt.example](mailto:contact@vaultcrypt.example)
+**Issues:** [GitHub Issues](https://github.com/Kryptos-s/VaultCrypt/issues)
+**Discussions:** [GitHub Discussions](https://github.com/Kryptos-s/VaultCrypt/discussions)
+
 
 ---
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/VaultCrypt\&type=Date)](https://star-history.com/#yourusername/VaultCrypt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Kryptos-s/VaultCrypt\&type=Date)](https://star-history.com/#yourusername/VaultCrypt&Date)
 
 ---
 
