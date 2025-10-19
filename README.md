@@ -7,7 +7,7 @@
 [![Qt](https://img.shields.io/badge/Qt-5.15-green.svg)](https://www.qt.io/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-VaultCrypt is a professional encryption application that delivers military-grade protection with a clean and intuitive interface.
+VaultCrypt is a encryption application that delivers protection with a clean and intuitive interface.
 Built with **C++17**, **Qt5**, and **trusted cryptographic libraries**.
 
 ---
