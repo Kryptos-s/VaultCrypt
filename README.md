@@ -105,7 +105,7 @@ See [BUILDING.md](BUILDING.md) for detailed instructions.
 
 ```bash
 # Requirements: CMake 3.20+, vcpkg, Qt5, Crypto++, libsodium
-git clone https://github.com/yourusername/VaultCrypt.git
+git clone https://github.com/kryptos-s/VaultCrypt.git
 cd VaultCrypt
 cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=[vcpkg-root]/scripts/buildsystems/vcpkg.cmake
 cmake --build build --config Release
